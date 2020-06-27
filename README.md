@@ -1,37 +1,68 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/tquadrivium/NamingAndNecessity/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## AP005：命名与必然性
 
-### Markdown
+本次读书会所使用的主要文本是Kripke的《命名与必然性》一书。该书是语言哲学经典著作之一，也是语言哲学方向的必读书目。《命名与必然性》讲述事物是怎样被命名的。哲学史上向来认为，凡先验的都是必然的，凡后验的均为偶然的。Kripke却指出，先验之于必然一如认识论之于形而上学，不仅有后验必然的知识，还有先验偶然的知识。这就是作者向传统理论提出严重挑战的先验偶然和后验必然的理论。
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[[点击在线阅读]](https://tquadrivium.github.io/NamingAndNecessity/)
 
-```markdown
-Syntax highlighted code block
+### 1.课程大纲
 
-# Header 1
-## Header 2
-### Header 3
+- Chapter 01：序言
 
-- Bulleted
-- List
+  [slides] [video]
 
-1. Numbered
-2. List
+- Chapter 02：第一篇演讲
 
-**Bold** and _Italic_ and `Code` text
+  [slides] [video]
 
-[Link](url) and ![Image](src)
-```
+- Chapter 03：第二篇演讲
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+  [slides] [video]
 
-### Jekyll Themes
+- Chapter 04：第三篇演讲
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tquadrivium/NamingAndNecessity/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+  [slides] [video]
 
-### Support or Contact
+- Chapter 05：跋
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+  [slides] [video]
+
+- Chapter 06：总结
+
+  [slides] [video]
+
+
+### 2.关于克里普克
+
+克里普克是美国逻辑学家和哲学家，模态逻辑语义学创始人之一，指称因果-历史论首倡者之一。他先后任教于哈佛大学、哥伦比亚大学、康奈尔大学和洛克菲勒大学，1977年任普林斯顿大学哲学教授，后升任麦科什讲座哲学教授，现任职于纽约城市大学研究生中心。
+
+### 3.关于读书会
+
+读书会由各个高校的哲学在读研究生共同组建（主要是分析哲学方向），最初由Hao ZHAN和Cheng LI发起。
+
+读书会项目地址：https://github.com/tquadrivium
+
+### 4.学习形式
+
+采用线上学习的形式（微信群+腾讯会议/飞书），每周阅读《命名与必然性》的一章内容。每周先由领读人梳理章节内容（20-30分钟），然后大家对阅读时所遇到的问题和难点进行讨论（40-80分钟）
+
+每次读书会的内容会以文本和视频的形式发布在该项目中，方便没能参与到讨论中的朋友观看。
+
+### 5.参与方法
+
+将基本情况（如学校、专业方向、年级）和加入读书会的理由（100字以内）发送到 [haozhan1993@gmail.com](mailto:haozhan1993@gmail.com) ，邮件题目为：姓名+克里普克《命名与必然性》读书会
+
+我们会尽可能快的进行答复。
+
+
+
+### 6.参与成员
+
+该项目创建于2020/6/1，距今已开展1期。
+
+- 第一期
+
+负责人	：	[Hao ZHAN](https://github.com/zhanhao93)
+
+项目成员：	李铖
