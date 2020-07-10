@@ -65,4 +65,4 @@
 
 负责人	：	[Hao ZHAN](https://github.com/zhanhao93)
 
-项目成员：	李铖
+项目成员：	李铖、隋东霖、何宏剑、Xiao Li、张天雨
