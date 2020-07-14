@@ -10,7 +10,7 @@
 
 - Chapter 01：序言
 
-  [[slides]](/slides/chapter01) [video]
+  [[slides]](./slides/chapter01) [video]
 
 - Chapter 02：第一篇演讲
 
