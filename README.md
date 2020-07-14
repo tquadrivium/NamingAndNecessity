@@ -10,7 +10,7 @@
 
 - Chapter 01：序言
 
-  [[slides]](https://tquadrivium.github.io/NamingAndNecessity/slides/chapter01.pdf) [video]
+  [[slides]](https://tquadrivium.github.io/NamingAndNecessity/slides/chapter01.pdf) [[video]](https://www.bilibili.com/video/BV1az411v7gg/)
 
 - Chapter 02：第一篇演讲
 
