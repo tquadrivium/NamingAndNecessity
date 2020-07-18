@@ -14,15 +14,15 @@
 
 - Chapter 01：序言
 
-  [[slides]](https://tquadrivium.github.io/NamingAndNecessity/slides/chapter01.pdf) [[video]](https://www.bilibili.com/video/BV1az411v7gg/)
+  [slides] [video]
 
 - Chapter 02：第一篇演讲
 
-  [slides] [video]
+  [[slides]](slides/chapter01/01.pdf) [[video]](https://www.bilibili.com/video/BV1az411v7gg/)
 
 - Chapter 03：第二篇演讲
 
-  [slides] [video]
+  [[slides01]](slides/chapter02/01.pdf) [[slides02]](slides/chapter02/02.pdf) [video]
 
 - Chapter 04：第三篇演讲
 
@@ -69,4 +69,4 @@
 
 负责人	：	[Hao ZHAN](https://github.com/zhanhao93)
 
-项目成员：	李铖、隋东霖、何宏剑、Xiao Li、张天雨
+项目成员：	李铖、[隋东霖](https://github.com/Gloogger)、何宏剑、Xiao Li、张天雨
