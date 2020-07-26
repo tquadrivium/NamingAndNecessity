@@ -22,19 +22,16 @@
 
 - Chapter 03：第二篇演讲
 
-  [[slides01]](slides/chapter02/01.pdf) [[slides02]](slides/chapter02/02.pdf) [video]
+  [[slides1]](slides/chapter02/01.pdf) [[slides2]](slides/chapter02/02.pdf) [video]
 
 - Chapter 04：第三篇演讲
 
-  [slides] [video]
+  [[slides1]](slides/chapter03/01.pdf) [[slides2]](slides/chapter03/02.pdf) [video]
 
-- Chapter 05：跋
-
-  [slides] [video]
-
-- Chapter 06：总结
+- Chapter 05：跋与总结
 
   [slides] [video]
+
 
 
 ### 2.关于克里普克
