@@ -22,7 +22,7 @@
 
 - Chapter 03：第二篇演讲
 
-  [[slides1]](slides/chapter02/01.pdf) [[slides2]](slides/chapter02/02.pdf) [video]
+  [[slides1]](slides/chapter02/01.pdf) [[slides2]](slides/chapter02/02.pdf) [[video]](https://www.bilibili.com/video/BV1th411Z7Bu)
 
 - Chapter 04：第三篇演讲
 
