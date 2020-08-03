@@ -12,25 +12,21 @@
 
 ### 1.课程大纲
 
-- Chapter 01：序言
-
-  [slides] [video]
-
-- Chapter 02：第一篇演讲
+- Chapter 01：第一篇演讲
 
   [[slides]](slides/chapter01/01.pdf) [[video]](https://www.bilibili.com/video/BV1az411v7gg/)
 
-- Chapter 03：第二篇演讲
+- Chapter 02：第二篇演讲
 
   [[slides1]](slides/chapter02/01.pdf) [[slides2]](slides/chapter02/02.pdf) [[video]](https://www.bilibili.com/video/BV1th411Z7Bu)
 
-- Chapter 04：第三篇演讲
+- Chapter 03：第三篇演讲
 
-  [[slides1]](slides/chapter03/01.pdf) [[slides2]](slides/chapter03/02.pdf) [video]
+  [[slides1]](slides/chapter03/01.pdf) [[slides2]](slides/chapter03/02.pdf) [[video]](https://www.bilibili.com/video/BV1Jz4y1Q76f/)
 
-- Chapter 05：跋与总结
+- Chapter 04：跋、序与总结
 
-  [slides] [video]
+  [slides] [[video]](https://www.bilibili.com/video/BV1Et4y1D7Mf/)
 
 
 
@@ -66,4 +62,4 @@
 
 负责人	：	[Hao ZHAN](https://github.com/zhanhao93)
 
-项目成员：	李铖、[隋东霖](https://github.com/Gloogger)、何宏剑、Xiao Li、张天雨
+项目成员：	李铖、[隋东霖](https://github.com/Gloogger)、Xiao Li、刘亚洲
