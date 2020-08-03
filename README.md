@@ -26,7 +26,7 @@
 
 - Chapter 04：跋、序与总结
 
-  [slides] [[video]](https://www.bilibili.com/video/BV1Et4y1D7Mf/)
+  [[slides]]((slides/chapter03/01.pdf))  [[video]](https://www.bilibili.com/video/BV1Et4y1D7Mf/)
 
 
 
@@ -36,7 +36,7 @@
 
 ### 3.关于读书会
 
-读书会由各个高校的哲学在读研究生共同组建（主要是分析哲学方向），最初由Hao ZHAN和Cheng LI发起。
+读书会由各个高校的哲学在读研究生共同组建（主要是分析哲学方向），最初由Hao ZHAN发起。
 
 读书会项目地址：https://github.com/tquadrivium
 
